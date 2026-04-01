@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bee Swarm Macro</string>
+    <string name="accessibility_service_label">Bee Swarm Macro Service</string>
+    <string name="accessibility_service_description">Automates gestures for Bee Swarm Simulator in Roblox. Enables auto-farming, auto-questing, and mob defeating.</string>
+    <string name="macro_status">Macro Status</string>
+    <string name="status_idle">IDLE</string>
+    <string name="status_running">RUNNING</string>
+    <string name="status_paused">PAUSED</string>
+    <string name="btn_start">START MACRO</string>
+    <string name="btn_stop">STOP MACRO</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="feature_auto_farm">Auto Farm</string>
+    <string name="feature_auto_farm_desc">Automatically collects pollen from flowers using gesture patterns</string>
+    <string name="feature_auto_quest">Auto Quest</string>
+    <string name="feature_auto_quest_desc">Automatically accepts and completes quests from NPCs</string>
+    <string name="feature_mob_defeat">Mob Defeat</string>
+    <string name="feature_mob_defeat_desc">Automatically detects and defeats mobs with combat patterns</string>
+    <string name="feature_auto_convert">Auto Convert</string>
+    <string name="feature_auto_convert_desc">Automatically converts pollen to honey at the hive</string>
+    <string name="settings">Settings</string>
+    <string name="perm_accessibility_title">Accessibility Service Required</string>
+    <string name="perm_accessibility_msg">Enable the Bee Swarm Macro accessibility service to allow gesture automation.</string>
+    <string name="perm_overlay_title">Overlay Permission Required</string>
+    <string name="perm_overlay_msg">Allow display over other apps to show the floating control menu.</string>
+    <string name="stats_title">Session Statistics</string>
+    <string name="stats_runtime">Runtime</string>
+    <string name="stats_pollen">Pollen Collected</string>
+    <string name="stats_quests">Quests Completed</string>
+    <string name="stats_mobs">Mobs Defeated</string>
+    <string name="stats_gestures">Gestures Performed</string>
+    <string name="profiles_title">Macro Profiles</string>
+    <string name="notification_channel">Macro Status</string>
+    <string name="notification_running">Bee Swarm Macro is running</string>
+</resources>

@@ -1,0 +1,2 @@
+-keep class com.beeswarm.macro.** { *; }
+-keepclassmembers class com.beeswarm.macro.** { *; }
